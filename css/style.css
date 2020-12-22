@@ -1,0 +1,41 @@
+*{
+	font-family: verdana;
+	text-align: center;
+}
+h1{
+	color:grey;
+}
+.c1{
+	background-color: #4a9f37;
+	
+
+}
+.c2{
+	background-color: #29bbe1;
+	
+	
+}
+.c3{
+	background-color: #ec6c2c;
+	
+	
+}
+.c4{
+	background-color: #fcc41c;
+	
+	
+}
+.Titl{
+	font-size: 1rem;
+	color: white;
+}
+.Mål{
+	width: 10rem;
+}
+.container{
+	text-align: center;
+}
+.RutTxt{
+	font-size: 0.8rem;
+	color:white;
+}
